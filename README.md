@@ -1,16 +1,7 @@
-# Jewelry-Example
-Jewelry Site Mobil App Interface Example
-
 # 💎 Jewelry-Example
 
 This project is a **modern and elegant jewelry store UI design**.  
 It was created using **Figma** and currently includes only **UI/UX mockups** — no backend or frontend code is implemented.
-
----
-
-## 🎨 Figma Design
-
-📎 [View the Design on Figma] (https://www.figma.com/your-link-here)](https://www.figma.com/design/HJLRKMtr6gVfEevLsfmQmc/Shine-Jewelry?node-id=0-1&p=f&t=csGImVbCbGXpOzp7-0)
 
 ---
 
