@@ -1,3 +1,7 @@
+## 🛠️ Technologies Used
+
+Figma
+
 # 💎 Jewelry-Example
 
 This project is a **modern and elegant jewelry store UI design**.  
