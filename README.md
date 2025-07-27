@@ -9,7 +9,7 @@ It was created using **Figma** and currently includes only **UI/UX mockups** —
 
 > Sample screen from the design 👇
 
-![Jewelry UI Preview]
+
 <img width="410" height="882" alt="image" src="https://github.com/user-attachments/assets/b88d8bc1-5a64-4c40-8e4b-05e38280e36a" />
 
 
