@@ -23,5 +23,9 @@ It was created using **Figma** and currently includes only **UI/UX mockups** —
 
 ---
 
+## 📌 Notes
+
+This is a UI design project only.  
+You can bring it to life using React, HTML/CSS, or any frontend framework you like.
 
 
